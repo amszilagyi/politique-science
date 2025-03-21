@@ -1,51 +1,41 @@
 const config = {
-  name: "Guillaume Levrier",
+  name: "Ana-Maria Szilagyi",
   description: {
     EN: {
-      short: `Guillaume Levrier is a political scientist working on biotechnology. He is a research associate to <a
-            href="https://www.sciencespo.fr/cevipof/en/researcher/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> and to the French National Library (BnF). He is also the lead 
-            developer of <a href="https://github.com/Guillaume-Levrier/PANDORAE"target="_blank">PANDORÆ</a> and a 
-            member of the French <a href="https://www.ouvrirlascience.fr/software-and-source-codes-college/"target="_blank">Committee for Open Science</a>.`,
+      short: `Ana-Maria Szilagyi is a PhD candidate in Political Science at Sciences Po where she is specializing in political theory. Her dissertation explores theories of work in the UK in the 20th century. She explores and builds upon the writings of paid domestic workers and feminist theorists through archival research, histories of unionization, and debates on citizenship, work and domestic work.`,
       long: "",
     },
     FR: {
-      short: `Guillaume Levrier est un chercheur en sciences
-        politiques
-        spécialisé sur les biotechnologies. Il est associé au <a
-            href="https://www.sciencespo.fr/cevipof/fr/chercheur/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> et à la Bibliothèque nationale de
-        France (BnF). Il est aussi l'architecte de <a href="https://github.com/Guillaume-Levrier/PANDORAE"target="_blank">
-        PANDORÆ</a> et membre du <a href="https://www.ouvrirlascience.fr/college-codes-sources-et-logiciels/"target="_blank">comité pour la science ouverte</a>.`,
+      short: ` Ana-Maria Szilagyi est doctorante en science politique spécialisée en théorie politique à Sciences Po Paris. Sa thèse explore les théories du travail au Royaume-Uni au cours du XXe siècle. Elle explore et s'appuie sur les écrits des travailleuses domestiques rémunérées et des théoriciennes féministes à travers des recherches d'archives, des histoires de syndicalisation et des débats sur la citoyenneté, le travail et le travail domestique.`,
       long: "",
     },
   },
   links: [
     {
       label: "twitter",
-      value: "@g_levrier",
-      url: "https://twitter.com/g_levrier",
+      value: "",
+      url: "",
     },
     {
       label: "google scholar",
       value: "profile",
-      url: "https://scholar.google.com/citations?user=IRiJFNMAAAAJ&hl=en",
+      url: "",
     },
     {
       label: "pubpeer",
       value: "profile",
-      url: "https://pubpeer.com/search?q=guillaume+levrier",
+      url: "",
     },
     {
       label: "orcid",
       value: "3-4801-4770",
-      url: "https://orcid.org/0000-0003-4801-4770",
+      url: "",
     },
     {
       label: "linked in",
       value: "profile",
-      url: "https://www.linkedin.com/in/guillaume-levrier-phd-89156838/",
+      url: "",
     },
   ],
-  email: { name: "guillaume.levrier", domain: "politique.science" },
+  email: { name: "anamaria.szilagyi", domain: "politique.science" },
 };

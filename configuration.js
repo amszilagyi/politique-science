@@ -1,22 +1,12 @@
 const config = {
-  name: "Guillaume Levrier",
+  name: "Ana-Maria Szilagyi",
   description: {
     EN: {
-      short: `Guillaume Levrier is a political scientist working on biotechnology. He is a research associate to <a
-            href="https://www.sciencespo.fr/cevipof/en/researcher/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> and to the French National Library (BnF). He is also the lead 
-            developer of <a href="https://github.com/Guillaume-Levrier/PANDORAE"target="_blank">PANDORÆ</a> and a 
-            member of the French <a href="https://www.ouvrirlascience.fr/software-and-source-codes-college/"target="_blank">Committee for Open Science</a>.`,
+      short: ``,
       long: "",
     },
     FR: {
-      short: `Guillaume Levrier est un chercheur en sciences
-        politiques
-        spécialisé sur les biotechnologies. Il est associé au <a
-            href="https://www.sciencespo.fr/cevipof/fr/chercheur/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> et à la Bibliothèque nationale de
-        France (BnF). Il est aussi l'architecte de <a href="https://github.com/Guillaume-Levrier/PANDORAE"target="_blank">
-        PANDORÆ</a> et membre du <a href="https://www.ouvrirlascience.fr/college-codes-sources-et-logiciels/"target="_blank">comité pour la science ouverte</a>.`,
+      short: ``,
       long: "",
     },
   },
